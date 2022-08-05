@@ -1,6 +1,5 @@
 '''
 
-select * from table_name where  table_name.dob
 LRU Cache Implement the LRUCache   class:   LRUCache(int capacity)
 Initialize the LRU cache with positive size capacity.
 int get(int key) Return the value of the key if the key exists, otherwise return -1.
